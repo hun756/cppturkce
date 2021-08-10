@@ -4,11 +4,12 @@
 
 ## Soru & Cevap
 
-| Nu   | Açıklama                                    | Link                                                                                          |
-| ---- | ------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| 0001 | Vektörün elemanları nasıl yazdırılır.       | [git]([https://link](https://github.com/hun756/cppturkce/blob/main/docs/Vektorun_toplami.md)) |
-| 0002 | Vektördeki elemanların toplamı              | [git](https://github.com/hun756/cppturkce/blob/main/docs/vektor_elemanlarini_yazdirma.md)     |
-| 0003 | Vektörün belirtilen değeri içerdiğini bulma | [git](https://github.com/hun756/cppturkce/blob/main/docs/vector_contains.md)                  |
+| Nu   | Açıklama                                         | Link                                                                                      |
+| ---- | ------------------------------------------------ | ----------------------------------------------------------------------------------------- |
+| 0001 | Vektörün elemanları nasıl yazdırılır.            | [git](https://github.com/hun756/cppturkce/blob/main/docs/Vektorun_toplami.md)             |
+| 0002 | Vektördeki elemanların toplamı                   | [git](https://github.com/hun756/cppturkce/blob/main/docs/vektor_elemanlarini_yazdirma.md) |
+| 0003 | Vektörün belirtilen değeri içerdiğini bulma      | [git](https://github.com/hun756/cppturkce/blob/main/docs/vector_contains.md)              |
+| 0004 | Vektör kapsayıcısından set kapsayıcısına dönüşüm | [git](https://github.com/hun756/cppturkce/blob/main/docs/vektor_set_donusum.md)           |
 
 ## LISANS
 [MIT](https://github.com/hun756/cppturkce/blob/main/LICENSE)
