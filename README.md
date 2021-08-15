@@ -11,9 +11,10 @@
 | 0003 | Vektörün belirtilen değeri içerdiğini bulma      | [git](https://github.com/hun756/cppturkce/blob/main/docs/vector_contains.md)              |
 | 0004 | Vektör kapsayıcısından set kapsayıcısına dönüşüm | [git](https://github.com/hun756/cppturkce/blob/main/docs/vektor_set_donusum.md)           |
 | 0005 | C++ 'da kabuk kodları nasıl çalıştırılır?        | [git](https://github.com/hun756/cppturkce/blob/main/docs/kabuk_komutu.md)                 |
-| 0006 | C++ 'da Uçbirim nasıl gizlenir?                  | [git](https://github.com/hun756/cppturkce/blob/main/docs/ucbirim_gizleme.md)              |
-| 0007 | Mesaj kutusu nasıl gösterirlir? (windows)        | [git](https://github.com/hun756/cppturkce/blob/main/docs/mesaj_kutusu.md)                 |
+| 0006 | C++ 'da uç birim nasıl gizlenir?                 | [git](https://github.com/hun756/cppturkce/blob/main/docs/ucbirim_gizleme.md)              |
+| 0007 | Mesaj kutusu nasıl gösterilir? (windows)         | [git](https://github.com/hun756/cppturkce/blob/main/docs/mesaj_kutusu.md)                 |
 | 0008 | Uçbirim nasıl temizlenir?                        | [git](https://github.com/hun756/cppturkce/blob/main/docs/ucbirim_temizleme.md)            |
+| 0009 | Zamanlayıcı nasıl oluşturulur?                   | [git](https://github.com/hun756/cppturkce/blob/main/docs/zamanlayici.md)                  |
 
 ## LISANS
 [MIT](https://github.com/hun756/cppturkce/blob/main/LICENSE)
