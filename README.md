@@ -17,7 +17,8 @@
 | 0009 | Zamanlayıcı nasıl oluşturulur?                   | [git](https://github.com/hun756/cppturkce/blob/main/docs/zamanlayici.md)                             |
 | 0010 | Nasıl gelişigüzel karakter üretilir?             | [git](https://github.com/hun756/cppturkce/blob/main/docs/gelisiguzel_karakter.md)                    |
 | 0011 | Vektörü son eleman hariç nasıl döngüye sokulur?  | [git](https://github.com/hun756/cppturkce/blob/main/docs/vektoru_son_elemani_haric_donguye_sokma.md) |
-| 0011 | Beyaz boşluklu  konsol girdisi nasıl okunur?     | [git](https://github.com/hun756/cppturkce/blob/main/docs/beyaz_bosluklu_input.md) |
+| 0012 | Beyaz boşluklu  konsol girdisi nasıl okunur?     | [git](https://github.com/hun756/cppturkce/blob/main/docs/beyaz_bosluklu_input.md)                    |
+| 0013 | C++'da sonsuz (infinity) nasıl gösterilir?       | [git](https://github.com/hun756/cppturkce/blob/main/docs/sonsuz.md)                    |
 
 ## LISANS
 [MIT](https://github.com/hun756/cppturkce/blob/main/LICENSE)
