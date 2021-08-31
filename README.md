@@ -21,6 +21,7 @@
 | 0013 | C++'da sonsuz (infinity) nasıl gösterilir?         | [git](https://github.com/hun756/cppturkce/blob/main/docs/sonsuz.md)                                  |
 | 0014 | Dizinde bulunan dosyalar nasıl çekilir?            | [git](https://github.com/hun756/cppturkce/blob/main/docs/dizindeki_dosyalari_getirme.md)             |
 | 0015 | Bir karakter dizisinde bulunan ifadeyi değiştirme? | [git](https://github.com/hun756/cppturkce/blob/main/docs/karakter_dizinde_değişiklik.md)             |
+| 0016 | C++ değişken türü nasıl belirlenir?                | [git](https://github.com/hun756/cppturkce/blob/main/docs/degisken_turu_belirleme.md)                 |
 
 ## LISANS
 [MIT](https://github.com/hun756/cppturkce/blob/main/LICENSE)
