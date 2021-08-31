@@ -15,6 +15,7 @@
 | 0007 | Mesaj kutusu nasıl gösterilir? (windows)         | [git](https://github.com/hun756/cppturkce/blob/main/docs/mesaj_kutusu.md)                 |
 | 0008 | Uçbirim nasıl temizlenir?                        | [git](https://github.com/hun756/cppturkce/blob/main/docs/ucbirim_temizleme.md)            |
 | 0009 | Zamanlayıcı nasıl oluşturulur?                   | [git](https://github.com/hun756/cppturkce/blob/main/docs/zamanlayici.md)                  |
+| 0010 | Nasıl gelişigüzel karakter üretilir?             | [git](https://github.com/hun756/cppturkce/blob/main/docs/gelisiguzel_karakter.md)         |
 
 ## LISANS
 [MIT](https://github.com/hun756/cppturkce/blob/main/LICENSE)
