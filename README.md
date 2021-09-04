@@ -25,6 +25,7 @@
 | 0017 | Bir metin dosyasını satır satır okuma ?            | [git](https://github.com/hun756/cppturkce/blob/main/docs/satir_satir_okuma.md)                       |
 | 0018 | En büyük ortak bölen nasıl bulunur ?               | [git](https://github.com/hun756/cppturkce/blob/main/docs/en_buyuk_ortak_bolen.md)                    |
 | 0019 | C++ da thread sleep oluşturma ?                    | [git](https://github.com/hun756/cppturkce/blob/main/docs/thread_sleep.md)                            |
+| 0020 | C++ da gecikme nasıl oluşturulur ?                 | [git](https://github.com/hun756/cppturkce/blob/main/docs/gecikme.md)                                 |
 
 
 ## LISANS
