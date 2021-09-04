@@ -28,6 +28,7 @@
 | 0020 | C++ da gecikme nasıl oluşturulur ?                   | [git](https://github.com/hun756/cppturkce/blob/main/docs/gecikme.md)                                  |
 | 0021 | C++ da vektörün başına nasıl eleman eklenir?         | [git](https://github.com/hun756/cppturkce/blob/main/docs/vektorun_basina_ekleme.md)                   |
 | 0022 | 0 ile 1 aralığında random kayan noktalı sayı üretme? | [git](https://github.com/hun756/cppturkce/blob/main/docs/0_ile_1_arasinda_gelisiguzel_sayi_uretme.md) |
+| 0023 | Kısa koşul ifadesi nasıl kullanılır?                 | [git](https://github.com/hun756/cppturkce/blob/main/docs/ucterimli.md)                                |
 
 
 ## LISANS
