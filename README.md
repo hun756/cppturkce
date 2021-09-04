@@ -24,6 +24,7 @@
 | 0016 | C++ değişken türü nasıl belirlenir?                | [git](https://github.com/hun756/cppturkce/blob/main/docs/degisken_turu_belirleme.md)                 |
 | 0017 | Bir metin dosyasını satır satır okuma ?            | [git](https://github.com/hun756/cppturkce/blob/main/docs/satir_satir_okuma.md)                       |
 | 0018 | En büyük ortak bölen nasıl bulunur ?               | [git](https://github.com/hun756/cppturkce/blob/main/docs/en_buyuk_ortak_bolen.md)                    |
+| 0019 | C++ da thread sleep oluşturma ?                    | [git](https://github.com/hun756/cppturkce/blob/main/docs/thread_sleep.md)                            |
 
 
 ## LISANS
