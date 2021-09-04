@@ -29,6 +29,7 @@
 | 0021 | C++ da vektörün başına nasıl eleman eklenir?         | [git](https://github.com/hun756/cppturkce/blob/main/docs/vektorun_basina_ekleme.md)                   |
 | 0022 | 0 ile 1 aralığında random kayan noktalı sayı üretme? | [git](https://github.com/hun756/cppturkce/blob/main/docs/0_ile_1_arasinda_gelisiguzel_sayi_uretme.md) |
 | 0023 | Kısa koşul ifadesi nasıl kullanılır?                 | [git](https://github.com/hun756/cppturkce/blob/main/docs/ucterimli.md)                                |
+| 0024 | Dizinin uzunluğu nasıl belirlenir?                   | [git](https://github.com/hun756/cppturkce/blob/main/docs/dizi_uzunlugu.md)                            |
 
 
 ## LISANS
