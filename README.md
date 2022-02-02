@@ -17,7 +17,7 @@
 | 0009 | Zamanlayıcı nasıl oluşturulur?                       | [git](https://github.com/hun756/cppturkce/blob/main/docs/zamanlayici.md)                              |
 | 0010 | Nasıl gelişigüzel karakter üretilir?                 | [git](https://github.com/hun756/cppturkce/blob/main/docs/gelisiguzel_karakter.md)                     |
 | 0011 | Vektörü son eleman hariç nasıl döngüye sokulur?      | [git](https://github.com/hun756/cppturkce/blob/main/docs/vektoru_son_elemani_haric_donguye_sokma.md)  |
-| 0012 | Beyaz boşluklu  konsol girdisi nasıl okunur?         | [git](https://github.com/hun756/cppturkce/blob/main/docs/beyaz_bosluklu_input.md)                     |
+| 0012 | Beyaz boşluklu konsol girdisi nasıl okunur?          | [git](https://github.com/hun756/cppturkce/blob/main/docs/beyaz_bosluklu_input.md)                     |
 | 0013 | C++'da sonsuz (infinity) nasıl gösterilir?           | [git](https://github.com/hun756/cppturkce/blob/main/docs/sonsuz.md)                                   |
 | 0014 | Dizinde bulunan dosyalar nasıl çekilir?              | [git](https://github.com/hun756/cppturkce/blob/main/docs/dizindeki_dosyalari_getirme.md)              |
 | 0015 | Bir karakter dizisinde bulunan ifadeyi değiştirme?   | [git](https://github.com/hun756/cppturkce/blob/main/docs/karakter_dizinde_değişiklik.md)              |
@@ -30,7 +30,8 @@
 | 0022 | 0 ile 1 aralığında random kayan noktalı sayı üretme? | [git](https://github.com/hun756/cppturkce/blob/main/docs/0_ile_1_arasinda_gelisiguzel_sayi_uretme.md) |
 | 0023 | Kısa koşul ifadesi nasıl kullanılır?                 | [git](https://github.com/hun756/cppturkce/blob/main/docs/ucterimli.md)                                |
 | 0024 | Dizinin uzunluğu nasıl belirlenir?                   | [git](https://github.com/hun756/cppturkce/blob/main/docs/dizi_uzunlugu.md)                            |
-
+| 0025 | Hızlı girdi/çıktı işlemleri?                         | [git](https://github.com/hun756/cppturkce/blob/main/docs/hizli_girdi_cikti.md)                        |
 
 ## LISANS
+
 [MIT](https://github.com/hun756/cppturkce/blob/main/LICENSE)
